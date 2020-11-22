@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/eed3d31a-4fc2-49e2-8025-bbb3680656c0/resourceGroups/appsvc_rg_windows_centralus/providers/Microsoft.Web/sites/Azure-nodejs-zee",
+    "appService.deploySubpath": ""
+}
